@@ -4,7 +4,7 @@ Widget::Widget(TSample s, QWidget *parent)
     : QWidget(parent), sample(s)
 {
 
-    setWindowTitle("Работа №8");
+    setWindowTitle("Работа №7");
     setFixedSize(600, 500);
 
     btn = new QPushButton("Выбрать файл", this);
